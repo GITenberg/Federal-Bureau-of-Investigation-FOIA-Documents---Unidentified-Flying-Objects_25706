@@ -1,0 +1,29 @@
+_repo: Federal-Bureau-of-Investigation-FOIA-Documents---Unidentified-Flying-Objects_25706
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Federal Bureau of Investigation
+    gutenberg_agent_id: '8409'
+    url: http://www.gutenberg.org/2009/agents/8409
+description: In 1947, a rash of sightings of Unexplained Flying Objects (UFOs) swept
+  America. Although the newly formed U.S. Air Force was the primary investigator of
+  these sightings, the FBI received many reports and worked for a time with the Air
+  Force to investigate these matters. This release, declassified and made public in
+  response to a U.S. Freedom of Information Act (FOIA) request, details the FBI's
+  role in investigating UFO reports between 1947 and 1954.
+gutenberg_issued: '2008-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Unidentified flying objects'
+- !lcc 'TL'
+title: Federal Bureau of Investigation FOIA Documents - Unidentified Flying Objects
+url: http://www.gutenberg.org/ebooks/25706
